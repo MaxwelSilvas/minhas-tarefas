@@ -11,14 +11,14 @@ const tarefas = [
   {
     titulo: 'Estudar Python',
     descricao: 'Baixar algo',
-    prioridade: 'importante',
+    prioridade: 'urgente',
     status: 'pendente'
   },
   {
     titulo: 'Terminar aula',
     descricao: 'aula chata',
     prioridade: 'importante',
-    status: 'pendente'
+    status: 'concluída'
   }
 ]
 
