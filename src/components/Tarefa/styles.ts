@@ -84,7 +84,3 @@ export const BotaoSalvar = styled(Botao)`
 export const BotaoCancelar = styled(Botao)`
   background-color: ${variaveis.vermelho};
 `
-
-// export const BotaoCancelar = styled(Botao)`
-//   background-color: ${variaveis.vermelho};
-// `
